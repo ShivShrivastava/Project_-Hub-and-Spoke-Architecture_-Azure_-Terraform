@@ -1,6 +1,3 @@
-Bhai sahi direction me ja raha hai 🔥 — bas maine tera README clean, professional aur image-integrated version me update kar diya hai.
-Ye **final recruiter-ready version** hai 👇 (direct copy-paste kar de)
-
 ---
 
 # 🚀 **README.md – Azure Hub & Spoke Architecture using Terraform**
@@ -112,7 +109,7 @@ All traffic between spokes and external networks flows through the Hub, enabling
 ```bash
 git clone https://github.com/ShivShrivastava/Project_-Hub-and-Spoke-Architecture_-Azure_-Terraform.git
 cd Project_-Hub-and-Spoke-Architecture_-Azure_-Terraform
-````
+```
 
 ---
 
@@ -213,20 +210,3 @@ If you found this project helpful, please ⭐ the repository!
 ```
 
 ---
-
-## 🔥 Final Touch (Important)
-
-Before pushing:
-- ✅ `hs.gif` and `hub_spoke_47.png` repo root me hone chahiye  
-- ❌ `:contentReference` wali line hata di (wo galat thi)  
-- ✅ Structure clean + recruiter friendly  
-
----
-
-Agar tu next level jaana chahta hai:
-- 🔥 Terraform badge + Azure badge add kar dete hain  
-- 🔥 GIF animation bana dete hain architecture ka  
-- 🔥 Repo ko “Featured Project” level polish kar dete hain  
-
-bol bhai 😎
-```
