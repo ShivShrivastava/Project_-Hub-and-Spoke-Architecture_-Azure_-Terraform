@@ -136,5 +136,3 @@ terraform apply -auto-approve
 
 Shiv Shrivastava
 DevOps Engineer | Azure | Terraform | Kubernetes
-
-```
