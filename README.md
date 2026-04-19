@@ -1,4 +1,3 @@
-```markdown
 # 🌐 Azure Hub and Spoke Architecture using Terraform
 
 This project demonstrates the implementation of a **Hub and Spoke network topology in Microsoft Azure** using **Terraform (Infrastructure as Code)**.
@@ -139,5 +138,3 @@ Shiv Shrivastava
 DevOps Engineer | Azure | Terraform | Kubernetes
 
 ```
-
----
