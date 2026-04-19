@@ -1,7 +1,3 @@
----
-
-# 🚀 **README.md – Azure Hub & Spoke Architecture using Terraform**
-
 ```markdown
 # 🌐 Azure Hub and Spoke Architecture using Terraform
 
@@ -28,7 +24,7 @@ All traffic between spokes and external networks flows through the Hub, enabling
 ## 🏗️ Architecture Diagram
 
 <p align="center">
-  <img src="./hs.gif" alt="Hub Spoke Architecture" width="800"/>
+  <img src="hs.gif" alt="Hub Spoke Architecture" width="800"/>
 </p>
 
 <p align="center">
@@ -109,9 +105,7 @@ All traffic between spokes and external networks flows through the Hub, enabling
 ```bash
 git clone https://github.com/ShivShrivastava/Project_-Hub-and-Spoke-Architecture_-Azure_-Terraform.git
 cd Project_-Hub-and-Spoke-Architecture_-Azure_-Terraform
-```
-
----
+````
 
 ### 2️⃣ Initialize Terraform
 
@@ -119,23 +113,17 @@ cd Project_-Hub-and-Spoke-Architecture_-Azure_-Terraform
 terraform init
 ```
 
----
-
 ### 3️⃣ Validate Configuration
 
 ```bash
 terraform validate
 ```
 
----
-
 ### 4️⃣ Plan Deployment
 
 ```bash
 terraform plan
 ```
-
----
 
 ### 5️⃣ Apply Infrastructure
 
@@ -148,7 +136,7 @@ terraform apply -auto-approve
 ## 📊 Terraform Plan Output
 
 <p align="center">
-  <img src="./hub_spoke_47.png" alt="Terraform Plan Output" width="900"/>
+  <img src="hub_spoke_47.png" alt="Terraform Plan Output" width="900"/>
 </p>
 
 <p align="center">
@@ -181,18 +169,6 @@ terraform apply -auto-approve
 * Azure Kubernetes Service (AKS)
 * CI/CD pipeline integration (Azure DevOps / GitHub Actions)
 * Monitoring with Log Analytics
-
----
-
-## 🤝 Contributing
-
-Feel free to fork the repository and submit pull requests.
-
----
-
-## 📜 License
-
-This project is for learning and demonstration purposes.
 
 ---
 
